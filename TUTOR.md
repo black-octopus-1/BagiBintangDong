@@ -13,4 +13,4 @@ python run.py
 
 Kalau Nggak
 
-Hekerpalsu.zip:["https://www.mediafire.com/file/kg2stqld5jg5p5r/hekerpalsu.zip/file"]
+<a href="https://www.mediafire.com/file/kg2stqld5jg5p5r/hekerpalsu.zip/file">KLIK UNTUK DOWNLOAD HEKERPALSU.ZIP</a>
