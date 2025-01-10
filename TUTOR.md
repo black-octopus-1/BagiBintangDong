@@ -11,6 +11,6 @@ cd BagiBintangDong
 python run.py
 ```
 
-Kalau Nggak
+Kalau Nggak Download Ini Aja
 
 <a href="https://www.mediafire.com/file/kg2stqld5jg5p5r/hekerpalsu.zip/file">KLIK UNTUK DOWNLOAD HEKERPALSU.ZIP</a>
