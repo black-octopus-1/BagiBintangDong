@@ -10,3 +10,7 @@ git clone https://github.com/black-octopus-1/BagiBintangDong
 cd BagiBintangDong
 python run.py
 ```
+
+Kalau Nggak
+
+Hekerpalsu.zip:["https://www.mediafire.com/file/kg2stqld5jg5p5r/hekerpalsu.zip/file"]
