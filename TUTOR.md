@@ -14,3 +14,10 @@ python run.py
 Kalau Nggak Download Ini Aja
 
 <a href="https://www.mediafire.com/file/kg2stqld5jg5p5r/hekerpalsu.zip/file">KLIK UNTUK DOWNLOAD HEKERPALSU.ZIP</a>
+
+
+```
+INGAT ! SAYA TIDAK AKAN BERTANGGUNG JAWAB ATAS YANG KAMU LAKUKAN DENGAN SCRIPT SAYA !
+
+GUNAKAN DENGAN BIJAK !
+```
