@@ -3,3 +3,4 @@
 Gopay
 
 # TUTORIAL 
+<a href="https://github.com/black-octopus-1/BagiBintangDong/blob/main/TUTOR.md">KLIK DISINI</a>
