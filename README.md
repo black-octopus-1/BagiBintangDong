@@ -1,5 +1,6 @@
 # HEHE
-![1000013973](https://github.com/user-attachments/assets/c87fb561-ea91-497f-8bc3-4493d3151c93)
+![Kode QRIS ampun dije, GRGL PTM](https://github.com/user-attachments/assets/b753c1ce-4bd3-4007-9461-ff52447c2907)
+
 Gopay
 
 # TUTORIAL 
